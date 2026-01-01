@@ -1,6 +1,13 @@
-tech stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+🔗 Blockchain Core
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
+⚙️ Smart Contract Tooling 
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge)
+![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge)
+🌐 Web3 & Frontend 
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+🔐 Wallet & Auth 
+![MetaMask](https://img.shields.io/badge/MetaMask-E2761B?style=for-the-badge)
+![WalletConnect](https://img.shields.io/badge/WalletConnect-3B99FC?style=for-the-badge)
